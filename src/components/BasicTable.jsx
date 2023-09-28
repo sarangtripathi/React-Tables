@@ -72,12 +72,3 @@ const data = [
   </tr>
 
 ) )}
-{data.map((i) => ( 
-  <tr>
-    
-    <td>{i.id}</td>
-    <td>{i.gender}</td>
-  </tr>
-
-) )}
-{}
